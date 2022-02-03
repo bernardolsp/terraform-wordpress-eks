@@ -23,4 +23,9 @@ resource "aws_subnet" "invalid-this" {
     aws_vpc_ipv4_cidr_block_association.invalid_cidr
   ]
 
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 564b68fcd5a8c07e3d544c9d4c3c60e5aadc678a

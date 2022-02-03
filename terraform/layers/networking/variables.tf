@@ -10,4 +10,9 @@ variable "invalid_azs" {
     { "az" : "us-east-1a", "ip" : "100.64.0.0/19" },
     { "az" : "us-east-1b", "ip" : "100.64.32.0/19" },
   { "az" : "us-east-1c", "ip" : "100.64.64.0/19" }]
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 564b68fcd5a8c07e3d544c9d4c3c60e5aadc678a
